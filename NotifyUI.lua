@@ -1,4 +1,4 @@
-local notif = {}
+local notif = {Color = Color3.fromRGB(107, 39, 242)}
 
 function notif:Notification(title,desc,font,font2,visibletime)
 pcall(function()
@@ -43,10 +43,10 @@ instances.UICorner_2.CornerRadius = UDim.new(0, 7)
 instances.TextLabel_1.Parent = instances.Frame_1
 instances.TextLabel_1.Font = Enum.Font[font]
 instances.TextLabel_1.Text = title
-instances.TextLabel_1.TextColor3 = Color3.fromRGB(107, 39, 242)
+instances.TextLabel_1.TextColor3 = notif.Color
 instances.TextLabel_1.TextSize = 14
 instances.TextLabel_1.TextXAlignment = Enum.TextXAlignment.Left
-instances.TextLabel_1.BackgroundColor3 = Color3.fromRGB(107, 39, 242)
+instances.TextLabel_1.BackgroundColor3 = notif.Color
 instances.TextLabel_1.BackgroundTransparency = 1
 instances.TextLabel_1.Position = UDim2.new(0.08849557489156723, 0, 0, 0)
 instances.TextLabel_1.Size = UDim2.new(0, 201, 0, 28)
@@ -55,11 +55,11 @@ instances.TextLabel_1.Name = 'Title'
 instances.TextLabel_2.Parent = instances.Frame_1
 instances.TextLabel_2.Font = Enum.Font[font2]
 instances.TextLabel_2.Text = desc
-instances.TextLabel_2.TextColor3 = Color3.fromRGB(107, 39, 242)
+instances.TextLabel_2.TextColor3 = notif.Color
 instances.TextLabel_2.TextSize = 13
 instances.TextLabel_2.TextTruncate = Enum.TextTruncate.AtEnd
 instances.TextLabel_2.TextXAlignment = Enum.TextXAlignment.Left
-instances.TextLabel_2.BackgroundColor3 = Color3.fromRGB(107, 39, 242)
+instances.TextLabel_2.BackgroundColor3 = notif.Color
 instances.TextLabel_2.BackgroundTransparency = 1
 instances.TextLabel_2.Position = UDim2.new(0.08645028620958328, 0, 0.6040353178977966, 0)
 instances.TextLabel_2.Size = UDim2.new(0, 191, 0, 9)
@@ -68,9 +68,9 @@ instances.TextLabel_2.Name = 'Description'
 instances.TextButton_1.Parent = instances.Frame_1
 instances.TextButton_1.Font = Enum.Font.GothamSemibold
 instances.TextButton_1.Text = 'X'
-instances.TextButton_1.TextColor3 = Color3.fromRGB(107, 39, 242)
+instances.TextButton_1.TextColor3 = notif.Color
 instances.TextButton_1.TextSize = 18
-instances.TextButton_1.BackgroundColor3 = Color3.fromRGB(107, 39, 242)
+instances.TextButton_1.BackgroundColor3 = notif.Color
 instances.TextButton_1.BackgroundTransparency = 1
 instances.TextButton_1.Position = UDim2.new(0.9070796370506287, 0, 0, 0)
 instances.TextButton_1.Size = UDim2.new(0, 16, 0, 61)
