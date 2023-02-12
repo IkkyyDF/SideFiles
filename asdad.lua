@@ -1,1 +1,2 @@
-"asdasdad2"
+local x = "asd"
+return x
