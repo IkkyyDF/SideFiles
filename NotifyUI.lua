@@ -1,4 +1,4 @@
-local notif = {Color = Color3.fromRGB(107, 39, 242)}
+local notif = {Color = Color3.fromRGB(255, 0, 0)}
 
 function notif:Notification(title,desc,font,font2,visibletime)
 pcall(function()
