@@ -79,7 +79,7 @@ return {
             Maintenance = false,
             Reason = "Fixing The Key System",
             Name = "Shindo Life",
-            Link = "https://raw.githubusercontent.com/Demmx/Games/main/ShindoLife.lua"
+            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/ShindoLife.lua"
         }
     },
     Pnw = {
@@ -88,7 +88,7 @@ return {
             Maintenance = false,
             Reason = "Fixing The Key System",
             Name = "Project New World",
-            Link = "https://raw.githubusercontent.com/Demmx/Games/main/ProjectNewWorld.lua"
+            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/ProjectNewWorld.lua"
         }
     },
     Sfs = {
@@ -97,7 +97,7 @@ return {
             Maintenance = false,
             Reason = "Fixing The Key System",
             Name = "Sword Fighters Simulator",
-            Link = "https://raw.githubusercontent.com/Demmx/Games/main/SwordFightersSimulator.lua"
+            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/SwordFightersSimulator.lua"
         }
     },
     asou = {
@@ -106,7 +106,7 @@ return {
             Maintenance = false,
             Reason = "Fixing The Key System",
             Name = "Anime Soul Simulator",
-            Link = "https://raw.githubusercontent.com/Demmx/Games/main/AnimeSoulSimulator.lua"
+            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
         }
     }
 }
