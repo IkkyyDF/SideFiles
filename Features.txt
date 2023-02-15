@@ -1,0 +1,48 @@
+Shindo Life Features :
+
+[+] Farm Boss/NPC/Tailed [Gen 1, Gen 2 [Tyn], Gen 3]
+[+] Farm Event Boss Like Jinshiki
+[+] Farm Dungeon
+[+] Auto Mentor
+[+] Infinity Spin / Reroll Data.
+[+] Collect Scroll [Owned Scroll]
+[+] Auto Rank
+[+] Immortal
+[+] No Cooldown
+[+] Private Server Code Farm [ Must Have Server Creator ]
+[+] Free Private Server Code
+
+
+Project New World Features : 
+-Farming Level (1-Max)
+-Farming Event Boss [ Krampus ]
+-Farming Passive Quest
+-Auto Collect Chests
+-Auto Teleport To Fruit
+-Auto Use Buso Haki
+-Invisible
+-Auto Add Stat
+-Dash & Geppo Didn't using energy
+-Infinity Geppo
+-ESP
+
+Sword Fighters Simulator Features :
+[+] Farming Power/Auto Click
+[+] Pickup Drops
+[+] Rankup/Ascend
+[+] Farming Selected Mobs
+[+] Farming Nearest Mobs
+[+] Upgrades
+[+] Farming Dungeons
+[+] Players ESP
+
+
+Anime Souls Simulator Features :
+[+] Farm Energy
+[+] Auto Rank/Class
+[+] Auto Next Island
+[+] Farming Selected Mobs
+[+] Auto Open Crates
+[+] Teleports
+[+] WalkSpeed
+[+] JumpPower
