@@ -85,10 +85,10 @@ return {
     Pnw = {
         Id = 6918802270,
         Data = {
-            Maintenance = false,
-            Reason = "Fixing The Key System",
+            Maintenance = true,
+            Reason = "Discontinued",
             Name = "Project New World",
-            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/ProjectNewWorld.lua"
+            Link = "return print('Discontinued')"
         }
     },
     Sfs = {
