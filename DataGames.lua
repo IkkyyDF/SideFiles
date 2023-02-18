@@ -94,8 +94,8 @@ return {
     Sfs = {
         Id = 11040063484,
         Data = {
-            Maintenance = false,
-            Reason = "Fixing The Key System",
+            Maintenance = true,
+            Reason = "Fixing Bug!",
             Name = "Sword Fighters Simulator",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/SwordFightersSimulator.lua"
         }
