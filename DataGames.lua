@@ -76,8 +76,8 @@ return {
             5824792748
         },
         Data = {
-            Maintenance = false,
-            Reason = "Fixing The Key System",
+            Maintenance = true,
+            Reason = "Adding a new key sys pls be patient",
             Name = "Shindo Life",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/ShindoLife.lua"
         }
@@ -103,8 +103,8 @@ return {
     asou = {
         Id = 11542692507,
         Data = {
-            Maintenance = false,
-            Reason = "Fixing The Key System",
+            Maintenance = true,
+            Reason = "Adding new key sys pls be patient",
             Name = "Anime Soul Simulator",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
         }
