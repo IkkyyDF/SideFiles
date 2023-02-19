@@ -108,5 +108,21 @@ return {
             Name = "Anime Soul Simulator",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
         }
+    },
+    ads = {
+        Id = {
+            6938803436,
+            7338881230,
+            6990129309,
+            6990133340,
+            7274690025,
+            6990131029
+        },
+        Data = {
+            Maintenance = false,
+            Reason = "Adding new key sys pls be patient",
+            Name = "Anime Dimensions Simulator",
+            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeDimensionsSimulator.lua"
+        }
     }
 }
