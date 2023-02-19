@@ -121,8 +121,17 @@ return {
         Data = {
             Maintenance = false,
             Reason = "Adding new key sys pls be patient",
-            Name = "Anime Dimensions Simulator",
+            Name = "Anime Dimension Sim",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeDimensionsSimulator.lua"
+        }
+    },
+    ofs = {
+        Id = 11445923563,
+        Data = {
+            Maintenance = true,
+            Reason = "Coming Soon",
+            Name = "One Fruit",
+            Link = nil
         }
     }
 }
