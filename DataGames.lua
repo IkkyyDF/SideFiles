@@ -128,7 +128,7 @@ return {
     ofs = {
         Id = 11445923563,
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Coming Soon",
             Name = "One Fruit",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/OneFruit.lua"
