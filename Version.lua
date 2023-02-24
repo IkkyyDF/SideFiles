@@ -4,6 +4,6 @@ local ver = {
     Sfs = "v.1.0",
     asou = "v.1.0",
     ads = "v.1.5",
-    ofs = "v.1.0"
+    ofs = "v.2.0"
 }
 return ver

@@ -14,6 +14,7 @@ Shindo Life Features :
 
 
 Project New World Features : 
+
 -Farming Level (1-Max)
 -Farming Event Boss [ Krampus ]
 -Farming Passive Quest
@@ -46,3 +47,16 @@ Anime Souls Simulator Features :
 [+] Teleports
 [+] WalkSpeed
 [+] JumpPower
+
+
+One Fruit Features :
+
+[+] Farming Sea Beast
+[+] Farming Gorilla [Arena]
+[+] Farming Level
+[+] Farming All Stats [Strength, Etc]
+[+] Auto Tp Fruit + Storage
+[+] Auto Use Buso/Ken Haki
+[+] ESP Players
+[+] Walkspeed
+[+] Hidename
