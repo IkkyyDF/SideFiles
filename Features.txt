@@ -5,27 +5,15 @@ Shindo Life Features :
 [+] Farm Dungeon
 [+] Auto Mentor
 [+] Infinity Spin / Reroll Data.
-[+] Collect Scroll [Owned Scroll]
+[+] Collect Scroll
 [+] Auto Rank
 [+] Immortal
 [+] No Cooldown
-[+] Private Server Code Farm [ Must Have Server Creator ]
 [+] Free Private Server Code
 
 
 Project New World Features : 
-
--Farming Level (1-Max)
--Farming Event Boss [ Krampus ]
--Farming Passive Quest
--Auto Collect Chests
--Auto Teleport To Fruit
--Auto Use Buso Haki
--Invisible
--Auto Add Stat
--Dash & Geppo Didn't using energy
--Infinity Geppo
--ESP
+[!] Discontinued!
 
 Sword Fighters Simulator Features :
 [+] Farming Power/Auto Click
@@ -33,9 +21,13 @@ Sword Fighters Simulator Features :
 [+] Rankup/Ascend
 [+] Farming Selected Mobs
 [+] Farming Nearest Mobs
+[+] Auto Hatch Egg
+[+] Auto Craft/Forge Sword
+[+] Auto Craft Pet [Shiny,Celestial]
 [+] Upgrades
 [+] Farming Dungeons
 [+] Players ESP
+[+] Teleports
 
 
 Anime Souls Simulator Features :
@@ -57,6 +49,6 @@ One Fruit Features :
 [+] Farming All Stats [Strength, Etc]
 [+] Auto Tp Fruit + Storage
 [+] Auto Use Buso/Ken Haki
-[+] ESP Players
+[+] ESP Players & Fruit & ETC
 [+] Walkspeed
 [+] Hidename
