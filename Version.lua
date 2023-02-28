@@ -1,5 +1,5 @@
 local ver = {
-    Shindo = "v.5.5",
+    Shindo = "v.6.0",
     Pnw = "v.2.0",
     Sfs = "v.2.5",
     asou = "v.1.0",
