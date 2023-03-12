@@ -76,7 +76,7 @@ return {
             5824792748
         },
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Changing The Key System!",
             Name = "Shindo Life",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/ShindoLife.lua"
@@ -94,7 +94,7 @@ return {
     Sfs = {
         Id = 11040063484,
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Fixing Bug!",
             Name = "Changing The Key System!",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/SwordFightersSimulator.lua"
@@ -103,7 +103,7 @@ return {
     asou = {
         Id = 11542692507,
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Changing The Key System!",
             Name = "Anime Soul Simulator",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
@@ -119,7 +119,7 @@ return {
             6990131029
         },
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Changing The Key System!",
             Name = "Anime Dimension Sim",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeDimensionsSimulator.lua"
@@ -128,7 +128,7 @@ return {
     ofs = {
         Id = 11445923563,
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Changing The Key System!",
             Name = "One Fruit",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/OneFruit.lua"
