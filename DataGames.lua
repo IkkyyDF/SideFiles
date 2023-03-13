@@ -133,5 +133,14 @@ return {
             Name = "One Fruit",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/OneFruit.lua"
         }
+    },
+    rc = {
+        Id = 9285238704,
+        Data = {
+            Maintenance = false,
+            Reason = "",
+            Name = "Race Clicker",
+            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/RaceClicker.lua"
+        }
     }
 }

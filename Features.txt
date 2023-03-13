@@ -52,3 +52,11 @@ One Fruit Features :
 [+] ESP Players & Fruit & ETC
 [+] Walkspeed
 [+] Hidename
+
+
+Race Clicker Features :
+[+] Farming Speed
+[+] Farming Race
+[+] Auto Rebirth
+[+] Auto Buy Eggs
+[+] Teleports
