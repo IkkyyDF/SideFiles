@@ -1,0 +1,62 @@
+Shindo Life Features :
+
+[+] Farm Boss/NPC/Tailed [Gen 1, Gen 2 [Tyn], Gen 3]
+[+] Farm Event Boss Like Jinshiki
+[+] Farm Dungeon
+[+] Auto Mentor
+[+] Infinity Spin / Reroll Data.
+[+] Collect Scroll
+[+] Auto Rank
+[+] Immortal
+[+] No Cooldown
+[+] Free Private Server Code
+
+
+Project New World Features : 
+[!] Discontinued!
+
+Sword Fighters Simulator Features :
+[+] Farming Power/Auto Click
+[+] Pickup Drops
+[+] Rankup/Ascend
+[+] Farming Selected Mobs
+[+] Farming Nearest Mobs
+[+] Auto Hatch Egg
+[+] Auto Craft/Forge Sword
+[+] Auto Craft Pet [Shiny,Celestial]
+[+] Upgrades
+[+] Farming Dungeons
+[+] Players ESP
+[+] Teleports
+
+
+Anime Souls Simulator Features :
+[+] Farm Energy
+[+] Auto Rank/Class
+[+] Auto Next Island
+[+] Farming Selected Mobs
+[+] Auto Open Crates
+[+] Teleports
+[+] WalkSpeed
+[+] JumpPower
+
+
+One Fruit Features :
+
+[+] Farming Sea Beast
+[+] Farming Gorilla [Arena]
+[+] Farming Level
+[+] Farming All Stats [Strength, Etc]
+[+] Auto Tp Fruit + Storage
+[+] Auto Use Buso/Ken Haki
+[+] ESP Players & Fruit & ETC
+[+] Walkspeed
+[+] Hidename
+
+
+Race Clicker Features :
+[+] Farming Speed
+[+] Farming Race
+[+] Auto Rebirth
+[+] Auto Buy Eggs
+[+] Teleports
