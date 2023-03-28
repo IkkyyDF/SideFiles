@@ -94,7 +94,7 @@ return {
     asou = {
         Id = 11542692507,
         Data = {
-            Maintenance = false,
+            Maintenance = true,
             Reason = "Fix A Little Bug!!!!!",
             Name = "Anime Soul Simulator",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
@@ -110,7 +110,7 @@ return {
             6990131029
         },
         Data = {
-            Maintenance = false,
+            Maintenance = true,
             Reason = "Fix A Little Bug!!!!!",
             Name = "Anime Dimension Sim",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeDimensionsSimulator.lua"
