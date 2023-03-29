@@ -79,6 +79,7 @@ return {
             Maintenance = false,
             Reason = "Im Too Tired, Ill Try To Fix It Again Tomorrow, 6 Hours Fixing Still Cant Fix it :(",
             Name = "Shindo Life",
+            Ver = "v.6.5",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/ShindoLife.lua"
         }
     },
@@ -88,6 +89,7 @@ return {
             Maintenance = false,
             Reason = "Fixing Bug!",
             Name = "Fix A Little Bug!!!!!",
+            Ver = "v.2.5",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/SwordFightersSimulator.lua"
         }
     },
@@ -97,6 +99,7 @@ return {
             Maintenance = true,
             Reason = "Fix A Little Bug!!!!!",
             Name = "Anime Soul Simulator",
+            Ver = "v.2.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
         }
     },
@@ -113,6 +116,7 @@ return {
             Maintenance = true,
             Reason = "Fix A Little Bug!!!!!",
             Name = "Anime Dimension Sim",
+            Ver = "v.2.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeDimensionsSimulator.lua"
         }
     },
@@ -122,6 +126,7 @@ return {
             Maintenance = false,
             Reason = "",
             Name = "Race Clicker",
+            Ver = "v.1.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/RaceClicker.lua"
         }
     },
@@ -131,6 +136,7 @@ return {
             Maintenance = false,
             Reason = "Coming Soon",
             Name = "FruitWarriors",
+            Ver = "v.1.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/FruitWarriors.lua"
         }
     }
