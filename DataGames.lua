@@ -96,7 +96,7 @@ return {
     asou = {
         Id = 11542692507,
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Fix A Little Bug!!!!!",
             Name = "Anime Soul Simulator",
             Ver = "v.2.0",
