@@ -113,7 +113,7 @@ return {
             6990131029
         },
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Fix A Little Bug!!!!!",
             Name = "Anime Dimension Sim",
             Ver = "v.2.0",
