@@ -88,7 +88,7 @@ return {
         Data = {
             Maintenance = false,
             Reason = "Fixing Bug!",
-            Name = "Fix A Little Bug!!!!!",
+            Name = "Sword Fighters Simulator",
             Ver = "v.2.5",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/SwordFightersSimulator.lua"
         }
@@ -115,7 +115,7 @@ return {
         Data = {
             Maintenance = false,
             Reason = "Fix A Little Bug!!!!!",
-            Name = "Anime Dimension Sim",
+            Name = "Anime Dimension Simulator",
             Ver = "v.2.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeDimensionsSimulator.lua"
         }
@@ -135,7 +135,7 @@ return {
         Data = {
             Maintenance = false,
             Reason = "Coming Soon",
-            Name = "FruitWarriors",
+            Name = "Fruit Warriors",
             Ver = "v.1.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/FruitWarriors.lua"
         }
