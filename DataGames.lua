@@ -89,7 +89,7 @@ return {
             Maintenance = false,
             Reason = "Fixing Bug!",
             Name = "Sword Fighters Simulator",
-            Ver = "v.2.5",
+            Ver = "v.3.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/SwordFightersSimulator.lua"
         }
     },
