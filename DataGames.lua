@@ -139,5 +139,14 @@ return {
             Ver = "v.1.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/FruitWarriors.lua"
         }
-    }
+    },
+    acs = {
+        Id = 12135645852,
+        Data = {
+            Maintenance = false,
+            Reason = "Coming Soon",
+            Name = "Anime Catching Simulator",
+            Ver = "v.1.0",
+            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeCatchingSimulator.lua"
+        }
 }
