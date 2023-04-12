@@ -99,7 +99,7 @@ return {
             Maintenance = false,
             Reason = "Fix A Little Bug!!!!!",
             Name = "Anime Soul Simulator",
-            Ver = "v.2.0",
+            Ver = "v.2.5",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
         }
     },
