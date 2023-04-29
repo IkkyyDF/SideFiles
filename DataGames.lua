@@ -149,5 +149,5 @@ return {
             Ver = "v.2.5",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeCatchingSimulator.lua"
         }
-    }
+    }  
 }
