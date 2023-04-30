@@ -99,7 +99,7 @@ return {
             Maintenance = false,
             Reason = "Fix A Little Bug!!!!!",
             Name = "Anime Soul Simulator",
-            Ver = "v.3.0",
+            Ver = "v.3.5",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
         }
     },
@@ -128,16 +128,6 @@ return {
             Name = "Race Clicker",
             Ver = "v.1.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/RaceClicker.lua"
-        }
-    },
-    fw = {
-        Id = 12192552089,
-        Data = {
-            Maintenance = false,
-            Reason = "Coming Soon",
-            Name = "Fruit Warriors",
-            Ver = "v.1.0",
-            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/FruitWarriors.lua"
         }
     },
     acs = {
