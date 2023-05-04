@@ -76,8 +76,8 @@ return {
             5824792748
         },
         Data = {
-            Maintenance = false,
-            Reason = "Im Too Tired, Ill Try To Fix It Again Tomorrow, 6 Hours Fixing Still Cant Fix it :(",
+            Maintenance = true,
+            Reason = "Fixing Bugss, Idk When It Fixed Cuz Syn Down!",
             Name = "Shinobi Life 2",
             Ver = "v.7.5",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/ShindoLife.lua"
