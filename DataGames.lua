@@ -86,8 +86,8 @@ return {
     Sfs = {
         Id = 11040063484,
         Data = {
-            Maintenance = false,
-            Reason = "Fixing Bug!",
+            Maintenance = true,
+            Reason =  "Updating!!",
             Name = "Sword Fighters Simulator",
             Ver = "v.3.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/SwordFightersSimulator.lua"
@@ -96,8 +96,8 @@ return {
     asou = {
         Id = 11542692507,
         Data = {
-            Maintenance = false,
-            Reason = "Fix A Little Bug!!!!!",
+            Maintenance = true,
+            Reason = "Updating!!",
             Name = "Anime Soul Simulator",
             Ver = "v.3.5",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
@@ -113,8 +113,8 @@ return {
             6990131029
         },
         Data = {
-            Maintenance = false,
-            Reason = "Fix A Little Bug!!!!!",
+            Maintenance = true,
+            Reason = "Updating!!",
             Name = "Anime Dimension Simulator",
             Ver = "v.2.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeDimensionsSimulator.lua"
@@ -123,8 +123,8 @@ return {
     rc = {
         Id = 9285238704,
         Data = {
-            Maintenance = false,
-            Reason = "",
+            Maintenance = true,
+            Reason = "Updating!!",
             Name = "Race Clicker",
             Ver = "v.1.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/RaceClicker.lua"
@@ -133,8 +133,8 @@ return {
     acs = {
         Id = 12135645852,
         Data = {
-            Maintenance = false,
-            Reason = "Coming Soon",
+            Maintenance = true,
+            Reason = "Updating!!",
             Name = "Anime Catching Simulator",
             Ver = "v.2.5",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeCatchingSimulator.lua"
