@@ -76,7 +76,7 @@ return {
             5824792748
         },
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Fixing Bugss, Idk When It Fixed Cuz Syn Down!",
             Name = "Shinobi Life 2",
             Ver = "v.7.5",
