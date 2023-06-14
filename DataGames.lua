@@ -133,10 +133,10 @@ return {
     acs = {
         Id = 12135645852,
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Updating!!",
             Name = "Anime Catching Simulator",
-            Ver = "v.2.5",
+            Ver = "v.3.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeCatchingSimulator.lua"
         }
     }  
