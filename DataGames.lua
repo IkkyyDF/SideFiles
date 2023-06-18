@@ -99,7 +99,7 @@ return {
             Maintenance = false,
             Reason = "Updating!!",
             Name = "Anime Soul Simulator",
-            Ver = "v.3.5",
+            Ver = "v.4.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
         }
     },
@@ -123,7 +123,7 @@ return {
     rc = {
         Id = 9285238704,
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Updating!!",
             Name = "Race Clicker",
             Ver = "v.1.0",
