@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pandatechnology.xyz/service_api/PandaAuthCore.lua", true))()
+loadstring(game:HttpGet("https://pandadevelopment.net/service_api/Beta_AuthCore.lua", true))()
