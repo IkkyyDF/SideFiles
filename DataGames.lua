@@ -76,7 +76,7 @@ return {
             5824792748
         },
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Fixing Bugss, Idk When It Fixed Cuz Syn Down!",
             Name = "Shinobi Life 2",
             Ver = "v.8.0",
@@ -96,7 +96,7 @@ return {
     asou = {
         Id = 11542692507,
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Updating!!",
             Name = "Anime Soul Simulator",
             Ver = "v.4.0",
@@ -123,7 +123,7 @@ return {
     rc = {
         Id = 9285238704,
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Updating!!",
             Name = "Race Clicker",
             Ver = "v.1.0",
@@ -133,7 +133,7 @@ return {
     acs = {
         Id = 12135645852,
         Data = {
-            Maintenance = true,
+            Maintenance = false,
             Reason = "Updating!!",
             Name = "Anime Catching Simulator",
             Ver = "v.3.0",
