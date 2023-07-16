@@ -136,7 +136,7 @@ return {
             Maintenance = false,
             Reason = "Updating!!",
             Name = "Anime Catching Simulator",
-            Ver = "v.3.0",
+            Ver = "v.4.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeCatchingSimulator.lua"
         }
     }  
