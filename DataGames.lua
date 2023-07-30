@@ -133,7 +133,7 @@ return {
     acs = {
         Id = {
             12135645852,
-            12878836621
+            12878836621 
         },
         Data = {
             Maintenance = false,
@@ -142,5 +142,15 @@ return {
             Ver = "v.5.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeCatchingSimulator.lua"
         }
-    }  
+    },
+    afsx = {
+        Id = 11545598432,
+        Data =  {
+            Maintenance = false,
+            Reason = "Updating!!",
+            Name = "Anime Fighting Simulator X",
+            Ver = "v.1.0",
+            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeFightingSimulatorX.lua"
+        }
+    }
 }
