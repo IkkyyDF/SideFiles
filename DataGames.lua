@@ -149,7 +149,7 @@ return {
             Maintenance = false,
             Reason = "Updating!!",
             Name = "Anime Fighting Simulator X",
-            Ver = "v.2.0",
+            Ver = "v.3.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeFightingSimulatorX.lua"
         }
     }
