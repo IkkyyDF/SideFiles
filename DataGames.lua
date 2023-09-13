@@ -87,7 +87,7 @@ return {
         Id = 11040063484,
         Data = {
             Maintenance = true,
-            Reason =  "Updating!!",
+            Reason =  "Discontinued",
             Name = "Sword Fighters Simulator",
             Ver = "v.3.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/SwordFightersSimulator.lua"
@@ -99,7 +99,7 @@ return {
             Maintenance = false,
             Reason = "Updating!!",
             Name = "Anime Soul Simulator",
-            Ver = "v.6.0",
+            Ver = "v.7.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
         }
     },
@@ -114,7 +114,7 @@ return {
         },
         Data = {
             Maintenance = true,
-            Reason = "Updating!!",
+            Reason = "Discontinued",
             Name = "Anime Dimension Simulator",
             Ver = "v.2.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeDimensionsSimulator.lua"
@@ -136,8 +136,8 @@ return {
             12878836621 
         },
         Data = {
-            Maintenance = false,
-            Reason = "Updating!!",
+            Maintenance = true,
+            Reason = "Discontinued!",
             Name = "Anime Catching Simulator",
             Ver = "v.5.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeCatchingSimulator.lua"
