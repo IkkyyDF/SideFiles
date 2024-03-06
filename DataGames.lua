@@ -146,7 +146,7 @@ return {
     afsx = {
         Id = 11545598432,
         Data =  {
-            Maintenance = false,
+            Maintenance = true,
             Reason = "Updating!!",
             Name = "Anime Fighting Simulator X",
             Ver = "v.4.0",
