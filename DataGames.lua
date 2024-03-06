@@ -96,8 +96,8 @@ return {
     asou = {
         Id = 11542692507,
         Data = {
-            Maintenance = false,
-            Reason = "Updating!!",
+            Maintenance = true,
+            Reason = "Discontinued!!",
             Name = "Anime Soul Simulator",
             Ver = "v.7.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeSoulSimulator.lua"
@@ -123,8 +123,8 @@ return {
     rc = {
         Id = 9285238704,
         Data = {
-            Maintenance = false,
-            Reason = "Updating!!",
+            Maintenance = true,
+            Reason = "Discontinued",
             Name = "Race Clicker",
             Ver = "v.1.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/RaceClicker.lua"
