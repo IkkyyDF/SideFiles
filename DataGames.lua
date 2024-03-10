@@ -152,5 +152,19 @@ return {
             Ver = "v.4.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/AnimeFightingSimulatorX.lua"
         }
+    },
+    sb3 = {
+        Id = {
+            14819490378,
+            15695929915,
+            16582687738
+        },
+        Data = {
+            Maintenance = true,
+            Reason = "Updating!!!",
+            Name = "Swordburst 3",
+            Ver = "v.1.0",
+            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/SB3.lua"
+        }
     }
 }
