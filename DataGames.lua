@@ -164,7 +164,7 @@ return {
             Reason = "Updating!!!",
             Name = "Swordburst 3",
             Ver = "v.1.0",
-            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/SB3.lua"
+            Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/Swordburst3.lua"
         }
     }
 }
