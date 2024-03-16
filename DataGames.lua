@@ -80,7 +80,7 @@ return {
             Maintenance = false,
             Reason = "Fixing Bugss, Idk When It Fixed Cuz Syn Down!",
             Name = "Shinobi Life 2",
-            Ver = "v.8.5",
+            Ver = "v.9.0",
             Link = "https://raw.githubusercontent.com/IkkyyDF/PublicGames/main/ShindoLife.lua"
         }
     },
