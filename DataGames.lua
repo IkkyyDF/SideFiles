@@ -161,7 +161,7 @@ return {
             16582687738
         },
         Data = {
-            Maintenance = false,
+            Maintenance = true,
             Reason = "Updating!!!",
             Name = "Swordburst 3",
             Ver = "v.1.0",
